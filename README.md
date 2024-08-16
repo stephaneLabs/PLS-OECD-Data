@@ -1,5 +1,5 @@
 # PLS-OCDE
-Re-interpretation in Python of J.F Durand, M. Vivien and S. Roman work about PLS regression of OCDE data based on a R program by J.F. Durand and R. Sabatier
+Re-interpretation in Python of J.F Durand, M. Vivien and S. Roman work about PLS regression of OCDE data based on R programs by J.F. Durand and R. Sabatier
 
 # References :
 * Durand, J. F., Roman, S., & Vivien, M. (1998). Guide d’utilisation de la régression Partial Least Squares linéaire sous Splus. Rapport technique Groupe de Biostatistique et d'Analyse des Systemes, INRA. Montpellier, (98-06).
