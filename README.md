@@ -6,9 +6,11 @@ Re-interpretation in Python of J.F Durand, M. Vivien and S. Roman work about PLS
 
 * Durand, J. F. (2002). Éléments de calcul matriciel et d’analyse factorielle de données. Cours polycopié, Département de Mathématiques, Université Montpellier II.
 
-* R programs (2021): https://jf-durand-pls.com/ProgramSources.html
-
 # Other source material :
+* R programs (2021): https://jf-durand-pls.com/ProgramSources.html
+* Datasets : https://jf-durand-pls.com/Datasets.html
+
+# Documentation
 * https://docs.python.org/fr/3/tutorial/datastructures.html
 * https://pandas.pydata.org/
 * https://python-graph-gallery.com/3-control-color-of-barplots/
