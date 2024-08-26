@@ -18,3 +18,6 @@ Re-interpretation in Python of J.F Durand, M. Vivien and S. Roman work about PLS
 * https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html#sphx-glr-auto-examples-cross-decomposition-plot-pcr-vs-pls-py
 * https://stackoverflow.com
 * https://learnche.org/pid/latent-variable-modelling/projection-to-latent-structures/how-the-pls-model-is-calculated
+
+# Licence
+* Copyright Stéphane LASSALVY 2024 - Licence GPL-3
